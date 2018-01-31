@@ -1,0 +1,13 @@
+//Joshua Cheung
+//Jotcheun
+//PA3
+//README FILE
+
+File to submitting:
+	Sparse.java			// Program that takes an input and output file and demonstrates the different functions of Matrix file
+	Matrix.java			// Library of methods Sparse uses to create Matrices
+	List.java			// Method library to be used in other programs
+	MatrixTest.java		// Test file for Matrix
+	ListTest.java		// Test file for List
+	Makefile			// Compiles all .java files in the current directory and creates an executable jar file called Sparse
+	README				// table of contents

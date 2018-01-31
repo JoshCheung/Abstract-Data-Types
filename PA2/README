@@ -1,0 +1,13 @@
+//Joshua Cheung
+//Jotcheun
+//PA2
+//README FILE
+
+
+Files to submit:
+      List.c			// Method library to be used in other programs
+      ListClient.c  	// A test client for the List ADT
+      Lex.c         	// program that sorts in lexicographic order
+      List.h  			// Header file for List.c
+      Makefile	  		// Compiles all .c files in the current directory and creates an executable jar file called Lex
+      README     		// table of contents

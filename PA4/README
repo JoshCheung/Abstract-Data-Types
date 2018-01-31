@@ -1,0 +1,15 @@
+//Joshua Cheung
+//Jotcheun
+//PA4
+//README FILE
+
+
+Files to submit:
+    List.c				// Method library to be used in other programs
+    List.h  				// Header file for List.c
+    Graph.c             		// Method library used for FindPath.c
+    Graph.h            			// Header file for Graph.c
+    GraphTest.c         		// Tester file for Graph.c
+    FindPath.c         			// Uses the Graph ADT to find shortest paths 
+    Makefile	  			// Compiles all .c files in the current directory and creates an executable jar file called FindPath
+    README     				// table of contents
